@@ -18,4 +18,8 @@ This is where I will write text. If you are reading this, congratulations.
 2. I am testing if I can make a list like this.
 3. People love lists, hence buzzfeed.
 
+Another burning question: does having a reading time make me look pretentious? I think yes. 
+
+(I'm thinking about deleting it. And testing line formatting with this line.)
+
 Thank you for reading this lengthy post!
