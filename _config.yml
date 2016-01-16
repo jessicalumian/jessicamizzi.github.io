@@ -1,7 +1,7 @@
 title:            Jessica Mizzi Blog
 description:      Describe your website here.
 disqus_shortname: jessicamizzi
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -13,17 +13,8 @@ owner:
   avatar:         blog-pic.jpg
   bio:            "In academic limbo, currently UC Davis affiliated. Book-reading, tea-drinking, swing dancing bioinformatics researcher."
   email:          jessica.mizzi@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
   twitter: jessicamizzi        
-  facebook:       
   github:  jessicamizzi       
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
 
 # Background image to be tiled on all pages
 background: 
