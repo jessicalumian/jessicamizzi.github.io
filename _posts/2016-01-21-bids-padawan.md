@@ -11,7 +11,7 @@ image:
 comments: true
 share: true
 ---
-
+# 
 
 At 5:45 am on January 14th, I was furiously biking across Davis, CA as my train to Berkeley departed without me. 
 Not actually a huge problem because I booked an needlessly early train in an effort to make sure I was not late because
@@ -36,7 +36,7 @@ say if I were teaching into a blank Google Doc, starting from the introduction (
 the mistake of overlooking them in the past). This had two great outcomes: 
 * I was able to see how I would explain concepts while teaching and had the opportunity to review them
 * Everything I wanted to say was already in my head, and it was much easier to recall the points I wanted to make because 
-I had already “taught” through them once. </br>
+I had already “taught” through them once. 
 
 ...I may or may not have included the same bad jokes I told during the workshop.
 
