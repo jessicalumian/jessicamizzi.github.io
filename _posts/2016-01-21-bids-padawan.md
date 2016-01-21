@@ -12,6 +12,8 @@ comments: true
 share: true
 ---
 
+
+
 At 5:45 am on January 14th, I was furiously biking across Davis, CA as my train to Berkeley departed without me. 
 Not actually a huge problem because I booked an needlessly early train in an effort to make sure I was not late because
 holy smokes I was nervous for this workshop. In the end, I got to the [Berkeley Institute for Data Science](http://bids.berkeley.edu/) 
