@@ -13,10 +13,9 @@ share: true
 ---
 
 
-
 At 5:45 am on January 14th, I was furiously biking across Davis, CA as my train to Berkeley departed without me. 
 Not actually a huge problem because I booked an needlessly early train in an effort to make sure I was not late because
-holy smokes I was nervous for this workshop. In the end, I got to the [Berkeley Institute for Data Science](http://bids.berkeley.edu/) 
+holy smokes I was nervous for this workshop. In the end, I got to the [Berkeley Institute for Data Science](http://bids.berkeley.edu/) on time
 and taught the [Software Carpentry Unix Shell lesson](http://swcarpentry.github.io/shell-novice/). There were no flames 
 (which... actually has been a problem for me while teaching before, but that’s a story for another day) and no 
 one threw computers at the wall! If that’s not success, then I don’t know what is.
