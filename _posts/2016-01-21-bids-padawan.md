@@ -5,7 +5,7 @@ description: "BIDS workshop debrief"
 modified: 2016-01-21
 tags: [teaching]
 image:
-  feature: abstract-3.jpg
+  feature: abstract-11.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: true
