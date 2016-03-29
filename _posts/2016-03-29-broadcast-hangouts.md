@@ -13,6 +13,10 @@ share: true
 ---
 Instructions and helpful Tips for Remote Teaching
 
+I organize a lot of [training workshops](http://dib-training.readthedocs.org/en/pub/) for my job as a 
+Training Coordinator in Titus Brown's lab. Here are some tentative instructions on how we use Google Hangouts
+on Air to broadcast and save videos from lessons. I plan to update this page soon (within a few days) with more detail.
+
 1. Go to the [Hangouts on Air page](https://plus.google.com/hangouts/onair), click yellow "Create Hangout on Air" button. You also must make sure you have a verified YouTube account associated with the gmail account of the person hosting the hangout.
 
 2. Give it name, description (optional), click starts later and specify time to start. Helpfully,
