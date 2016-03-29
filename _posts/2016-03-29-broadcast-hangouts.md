@@ -1,6 +1,17 @@
-===========================================================
-How to set up Google Hangouts on Air for Workshop Streaming
-===========================================================
+---
+layout: post
+title: How to set up Google Hangouts on Air for Workshop Streaming
+description: "Tips for remote teaching"
+modified: 2016-03-29
+tags: [teaching]
+image:
+  feature: abstract-11.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+comments: true
+share: true
+---
+Instructions and helpful Tips for Remote Teaching
 
 1. Go to the [Hangouts on Air page](https://plus.google.com/hangouts/onair), click yellow "Create Hangout on Air" button. You also must make sure you have a verified YouTube account associated with the gmail account of the person hosting the hangout.
 
@@ -32,7 +43,7 @@ via email accounts.
 bottom of the Hangout screen.
 
 
-# Other helpful knowledge #
+### Other helpful knowledge
 
 * You can join and leave the Hangout and invite others to the hangout as many times as you want before
 starting the broadcast.
