@@ -22,7 +22,7 @@ take questions on this process as well!
 
 ### Done Before the Workshop
 
-#### Setting Up the Hangouts:
+*Setting Up the Hangouts:*
 
 1. Go to the [Hangouts on Air page](https://plus.google.com/hangouts/onair), click yellow "Create Hangout on Air" button. You also must make sure you have a verified YouTube account associated with the gmail account of the person hosting the hangout.
 
