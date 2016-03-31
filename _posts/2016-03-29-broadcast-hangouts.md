@@ -26,7 +26,7 @@ take questions on this process as well!
 
 1. Go to the [Hangouts on Air page](https://plus.google.com/hangouts/onair), click yellow "Create Hangout on Air" button. You also must make sure you have a verified YouTube account associated with the gmail account of the person hosting the hangout.
 
-2. Give it name, description (optional), click starts later and specify time to start. Helpfully,
+2. Give it a name, description (optional), click starts later and specify time to start. Helpfully,
 the Hangout won't automatically start at that time, you still need to press the "Go Live" button in 
 the Hangout to start the streaming to YouTube, which you can do before or after the specified time.
 Also, I always overestimate the duration of the Hangout, because you can end it at any time. So for
