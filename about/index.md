@@ -2,12 +2,11 @@
 layout: page
 title: About Me
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: blog-heading-banner.jpg
+  credit:
+  creditlink:
 comments: false
-modified: 2016-01-21
+modified: 2016-05-24
 ---
 
-Eventually I will add more information about myself here. Or delete this page. Check back to follow this
-exciting saga!
+I'll more information here eventually. For now, you can see my CV [here](https://www.dropbox.com/s/ush1syfk19bcolb/JMizziPublicCV.pdf?dl=0).
