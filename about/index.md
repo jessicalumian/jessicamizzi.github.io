@@ -14,4 +14,4 @@ Jessica is a PhD student at UC Davis in the Microbiology Graduate Group. She hol
 More recent bioinformatics projects include the [de novo genome assembly and SNP calling of the Tule Elk](https://github.com/jessicamizzi/tule-elk) and a [developing and benchmarking a streaming algorithm for transcriptomic data](https://github.com/jessicamizzi/tule-elk).
 
 
-## [Click here for Jessica's CV](https://www.dropbox.com/s/ush1syfk19bcolb/JMizziPublicCV.pdf?dl=0)
+## [View Jessica's CV here](https://www.dropbox.com/s/ush1syfk19bcolb/JMizziPublicCV.pdf?dl=0)
