@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Campbell Reading Group: Chapter 3 Water
+title: Campbell Reading Group Chapter 3 Water
 description: "Campbell Biology Reading Group Ch 3"
 modified: 2017-06-07
 tags: [readinggroup]
@@ -42,10 +42,6 @@ Hydrogen bonding causes the solid form of H2O (ice) to be less dense than the li
 ### Specific Heat of Water
 
 The specific heat of a substance is the amount of energy to be absorbed or lost for 1 g of the substance to change its temperature by 1°C. Conveniently for water, 1 g = 1 mL because its density is 1 g = 1 cm^3 = 1 mL. The specific heat of water is higher than substances of structural similarity and composition because of the high amount of hydrogen bonding. Water molecules stick together closer than a molecule of hydrocarbon chains because of these interactions, which results in water requiring more energy to change its temperature than a liquid composed of molecules that don’t interact as strongly.
-
-<figure>
-	<a href="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/dreamteam.jpg"><img src="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/dreamteam.jpg" alt=""></a>
-</figure>
 
 ### Evaporative Cooling
 
