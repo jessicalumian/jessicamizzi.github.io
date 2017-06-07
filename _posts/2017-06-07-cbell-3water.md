@@ -17,7 +17,7 @@ Since last posting I started grad school and joined [The Sumner Lab](http://myge
 
 A few weeks ago, some minions from the [DIB Lab](http://ivory.idyll.org/lab/) started a reading group to go through the introductory biology textbook  [Campbell biology](https://www.amazon.com/Campbell-Biology-11th-Lisa-Urry/dp/0134093410/ref=dp_ob_title_bk) in an effort to learn from each other’s backgrounds and broaden our knowledge base. Our group has biologists and computer scientists, and a spread of experience levels. Each week, someone presents a chapter that we’ve all read. Turns out, biology is really fun to talk about! Discussions usually go off on interesting tangents about an interesting biology facet, details of definitions of foundational concepts, or how to effectively teach concepts to students. My motivation for these posts are to share tidbits of interesting discussion and potentially be corrected on anything I might have gotten wrong here. :)
  
-This post is about chapter 3, “Water and Life”. It is the second chapter in Unit 1: The Chemistry of Life. Taylor Reiter began the discussion by having us carefully pour water on top of coins to demonstrate cohesion and spoke about the implications of that with adhesion and surface tension (ie bugs walking on water!).
+This post is about chapter 3, “Water and Life”. It is the second chapter in Unit 1: The Chemistry of Life. [Taylor Reiter](https://github.com/taylorreiter) began the discussion by having us carefully pour water on top of coins to demonstrate cohesion and spoke about the implications of that with adhesion and surface tension (ie bugs walking on water!).
 
 ### Hydrogen Bonding
 
