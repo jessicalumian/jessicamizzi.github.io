@@ -23,7 +23,10 @@ This post is about chapter 3, “Water and Life”. It is the second chapter in 
 
 We discussed connection between hydrogen bonding and how it relates to the unique properties of water. In short, hydrogen bonding is an attraction between highly electronegative covalently bonded atom (nitrogen, oxygen, or fluorine) and a hydrogen covalently bonded to another N, O, or F. The covalently shared electrons are pulled closer to the electronegative atom, giving it a partial negative charge and the hydrogen a partial positive charge. The partial positive hydrogen will form an interaction with a partial negative N, O, or F or neighboring molecule in an aqueous solution. 
 
-INSERT IMAGE
+<figure>
+	<a href="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/cbell-ch3-image1-hbonding.jpg"><img src="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/cbell-ch3-image1-hbonding.jpg" alt=""></a>
+</figure>
+<sub>Image from [https://en.wikipedia.org/wiki/Hydrogen_bond#/media/File:3D_model_hydrogen_bonds_in_water.svg](https://en.wikipedia.org/wiki/Hydrogen_bond#/media/File:3D_model_hydrogen_bonds_in_water.svg)</sub>
 
 A common mistake that undergraduate students make when learning about hydrogen bonding is that it can happen between all hydrogens and other molecules, but this is only the case when covalently bonded to N, O, and F, which are electronegative and have a small atomic radius.
  
