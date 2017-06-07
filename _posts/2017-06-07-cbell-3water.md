@@ -5,7 +5,7 @@ description: "Campbell Biology Reading Group Ch 3"
 modified: 2017-06-07
 tags: [readinggroup]
 image:
-  feature: cbell-bio-ch3-water-banner.JPG
+  feature: cbell-bio-ch3-banner-water.jpg
   credit:
   creditlink:
 comments: true
@@ -33,7 +33,11 @@ A common mistake that undergraduate students make when learning about hydrogen b
  
 Hydrogen bonding causes the solid form of H2O (ice) to be less dense than the liquid form! In general it makes sense that in a solid form, molecules are packed together more tightly and thus has a higher density. However, the hydrogen bonding in water organizes the molecules to have more space in between them, resulting in a less dense crystalline structure.
 
-INSERT IMAGE
+<figure>
+	<a href="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/cbell-ch3-image2-crystal-water.jpg"><img src="https://raw.githubusercontent.com/jessicamizzi/jessicamizzi.github.io/master/images/cbell-ch3-image2-crystal-water.jpg" alt=""></a>
+</figure>
+
+<sub>Image from [https://upload.wikimedia.org/wikipedia/commons/8/88/Ice_XI_View_along_c_axis.png](https://upload.wikimedia.org/wikipedia/commons/8/88/Ice_XI_View_along_c_axis.png)</sub>
 
 ### Specific Heat of Water
 
